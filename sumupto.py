@@ -3,7 +3,7 @@ x = int(input("Please enter a positive integer: "))
 
 #if condition for negative integer
 if (x < 0):
-    print("Enter a positve number")
+    print("Check your number and run again")
 #if 0 then sum is = to 0
 else:
     sum = 0 #start of range 
