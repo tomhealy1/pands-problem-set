@@ -1,15 +1,16 @@
 #First import package for datetinme
-import datetime
+from datetime import datetime
 #Set condition True for if today begins with T
-if datetime.datetime.today().weekday()== 1:
-    print("Yes, today begins with a T.")
-elif datetime.datetime.today().weekday()== 3:
-    print("Yes, today begins with a T.")
+x = datetime
 
-    #Condition for false
-else datetime.datetime.today().weekday()== 0:
+if  x == 1:
+    print("Yes - Today begins with a T")
+elif x == 4:
+    print("Yes - Today begins with a T")
+else:
+    print("No - Today does not begin with a T")
     
-    print("No - today does not begin with a T.")
+
 
 
 
