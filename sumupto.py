@@ -1,14 +1,10 @@
-#x = integer with input call
+#x = asks for user to input positive integer
 x = int(input("Please enter a positive integer: "))
 
-#if condition for negative integer
-if (x < 0):
-    print("Check your number and run again")
-#if 0 then sum is = to 0
-else:
-    sum = 0 #start of range 
-#while the condition x greater 0 is true then, 
-    while(x > 0):
-        sum += x #adds all integers in range plus x
-        x -= 1
-    print("The sum is",sum)
+total = 0 #total variable starts at 0 
+#while x is less than 0 
+while x > 0:
+    total = total + x #LHS new total is equal to previous value + x
+    x = x - 1 #LHS x is equal to x - 1 , while x is less than 0, this will continue to run
+    
+print(total) #once the while loop has finished, it print total
