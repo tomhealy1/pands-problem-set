@@ -4,6 +4,6 @@ for num in range(1000,10000):
     #if true statement for the remainder for 6  ( Half way there :-)
     if num % 6 == 0 and num % 12 != 0:
         print(num)
-
+    
         
        
