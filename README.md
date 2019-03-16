@@ -9,8 +9,11 @@ This repo contains the my solution to the Problem set for the Programming and Sc
 2. Click the download button
 
 ## How to run the code
-1. Make you have Python installed
-2. 
+1. Make sure you have Python installed
+2. Open the CLI
+3. Type "python" and filename
+4. Enter input (string, float, int)
+5. Review output
 
 ## The list of problems and brief outline of solution 
 1. sumupto.py 
