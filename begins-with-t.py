@@ -1,3 +1,5 @@
+#Solution to Problem 2
+#Tom Healy
 import calendar #import calendar module
 from datetime import datetime #import datetime mod
 

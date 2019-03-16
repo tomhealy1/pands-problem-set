@@ -1,4 +1,5 @@
 #Solution to problem 5 
+#Tom Healy 
 #Ask user for postive integer
 num = int(input("Please enter a positive integer: "))
 #if the inputted number is great than 1

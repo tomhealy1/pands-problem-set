@@ -1,4 +1,5 @@
 #Solution to Problem No. 6
+#Tom Healy
 #Variation of the int input request from user except asks for a string
 import string
 import re

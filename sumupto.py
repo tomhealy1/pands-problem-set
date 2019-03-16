@@ -1,4 +1,6 @@
+#Solution to Problem 1
 #x = asks for user to input positive integer
+#Tom Healy
 x = int(input("Please enter a positive integer: "))
 
 total = 0 #total variable starts at 0 

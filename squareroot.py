@@ -1,4 +1,5 @@
 #Solution to Problem 7
+#Tom Healy
 #import math mod to use square root function
 import math 
 #Ask user for input as float

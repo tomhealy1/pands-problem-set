@@ -1,4 +1,5 @@
 #Solution to Problem-10
+#Tom Healy
 #Import packages matploylib and numpy
 import matplotlib.pyplot as plt
 import matplotlib as mpl
