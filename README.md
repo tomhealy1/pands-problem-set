@@ -10,18 +10,19 @@ This repo contains the my solution to the Problem set for the Programming and Sc
 
 ## How to run the code
 1. Make you have Python installed
+2. 
 
 ## The list of problems and brief outline of solution 
 1. sumupto.py 
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+2. begins-with-t.py
+3. divisor.py
+4. collatz.py
+5. primes.py
+6. secondstring.py
+7. sqaureroot.py
+8. datetime.py
+9. second.py
+10. Problem-10.py
 
 ## References
 
