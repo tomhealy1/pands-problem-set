@@ -7,16 +7,16 @@ import numpy as np
 
 
 #Set the functions so f(x), f(x**2) and f(2**x) and the x axis length up to 4 (Need to check this)
-x = np.arange(0.0, 4.5, 0.5)
+x = np.arange(0.0, 4.0, 0.5)
 z = x
-y = x**2
-dy = 2**x
+y = x ** 2
+dy = 2 ** x
 
 # Plot functions f(x), f(x**2) and f(2**x)
 plt.plot(x, z)
 plt.plot(x, y)
 plt.plot(x, dy)
-#Add a piont of intersection at (2, 4) and added a Blue circle to mark the intersection
+#Add a point of intersection at (2, 4) and added a Blue circle to mark the intersection
 plt.plot(2, 4, 'bo')
 
 # Add title, and labels for x and y axis
