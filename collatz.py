@@ -6,7 +6,7 @@ x = int(input("Please enter a positive integer: "))
 #Added condition for if the integer is not positive
 if x < 0:
     print("Please enter a positive number")
-#OK so I did not know what to add to the else statement here so I used pass and I wanted to use pass anyway
+#OK so I did not know what to add to the else statement here so I used pass and I wanted to use pass anyway :)
 else:
     pass
 

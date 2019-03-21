@@ -1,8 +1,10 @@
 #Solution to Problem 2
 #Tom Healy
-import calendar #import calendar module
+#import calendar module
+import calendar 
 
-from datetime import datetime #import datetime mod from datetime package
+#import datetime mod from datetime package
+from datetime import datetime 
 
 #what is today's date and time abd assigning that to the varible now
 now = datetime.now() 
