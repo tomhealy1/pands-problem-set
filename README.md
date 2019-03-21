@@ -34,6 +34,7 @@ This repo contains the my solution to the Problem set for the Programming and Sc
 <p>6. secondstring.py</p>
 <p>Problem 6 asks for a string from the user. We then have a program that will return every 2nd word and print to the screen almost like a new sentence. First, we import the string module. We then assign the string input to y_words. We then use the split function to split the input using space as a separator and assign it to the words var. We then create a range beginning at the 2nd word in the range and goes through every 2nd word. It then prints those words to the screen.
 <p>7. sqaureroot.py</p>
+<p>The squareroot problem is one where it asks the user for an input and then returns an approximation of the squareroot. First, we use the input prompt to request the float. We import the math module, and if the input is greater than 0 we continue. We assign the square root value for x to z. We then print the return value using a format that drops the decimal places after the first place after the point. </p>
 <p>8. datetime.py</p>
 <p>9. second.py</p>
 <p>10. Problem-10.py</p>
