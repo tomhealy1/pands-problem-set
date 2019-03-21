@@ -20,15 +20,15 @@ This repo contains the my solution to the Problem set for the Programming and Sc
 <p>The problem is to request an input (integer) from the user and return printed to the screen the sum of all the values between
 one and that number. I used a "while" to accomplish this (while x is greater than zero) and added an if func when x is less that zero. 
 The code adds the numbers in the range and then stops when x is zero.</p>
-2. begins-with-t.py
-3. divisor.py
-4. collatz.py
-5. primes.py
-6. secondstring.py
-7. sqaureroot.py
-8. datetime.py
-9. second.py
-10. Problem-10.py
+<p>2. begins-with-t.py</p>
+<p>3. divisor.py</p>
+<p>4. collatz.py</p>
+<p>5. primes.py</p>
+<p>6. secondstring.py</p>
+<p>7. sqaureroot.py</p>
+<p>8. datetime.py</p>
+<p>9. second.py</p>
+<p>10. Problem-10.py</p>
 
 ### References
 
