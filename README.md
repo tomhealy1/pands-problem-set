@@ -40,7 +40,7 @@ This repo contains the my solution to the Problem set for the Programming and Sc
 <p>9. second.py</p>
 <p>Problem 9 requires a program to read in a text file and then return every 2nd line. We use "with open.... as book" to read in the file as book. We then assign the output of readlines to the var book1. We then use the range function to return every 2nd line in book 1 using a similar function in prob 6. We then print the output to the screen and then we unindent to close the loop.</p>
 <p>10. Problem-10.py</p>
-<p>This problem plots three functions. 
+<p>This problem plots three functions. x, x**2 and 2**x in the range 0 to 4. We import matplotlib.pyplot and numpy. We numpy to create a evenly spaced range and we then create the function for z(x), y(x**2) and dy(2**x). We then plot the functions using plt.plot. I added a point of intersection and a blue circle to mark it. I then added the title, and the x and y axis labels. Add some grid lines and a legend to explain the lines and color code them and locate in the top left. Finally, add plt.show() to show the beautiful graph.
 
 
 ### References
