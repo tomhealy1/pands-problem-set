@@ -16,10 +16,10 @@ This repo contains the my solution to the Problem set for the Programming and Sc
 5. Review output
 
 ### The list of problems and brief outline of solution 
-1. sumupto.py 
+<p>1. sumupto.py</p> 
 <p>The problem is to request an input (integer) from the user and return printed to the screen the sum of all the values between
-one and that number. I used a "while" to accomplish this (while x is greater than zero) and added an if func when x is less that zero. 
-The code adds the numbers in the range and then stops when x is zero.</p>
+   one and that number. I used a "while" to accomplish this (while x is greater than zero) and added an if func when x is less that zero. 
+   The code adds the numbers in the range and then stops when x is zero.</p>
 <p>2. begins-with-t.py</p>
 <p>3. divisor.py</p>
 <p>4. collatz.py</p>
