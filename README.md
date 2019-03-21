@@ -36,8 +36,9 @@ This repo contains the my solution to the Problem set for the Programming and Sc
 <p>7. sqaureroot.py</p>
 <p>The squareroot problem is one where it asks the user for an input and then returns an approximation of the squareroot. First, we use the input prompt to request the float. We import the math module, and if the input is greater than 0 we continue. We assign the square root value for x to z. We then print the return value using a format that drops the decimal places after the first place after the point. </p>
 <p>8. datetime.py</p>
-<p>Problem 8 print today's date and time formatted in a certain way. We import calendar and datetime modules. We assign datetime.now() to now. We then reformat now to the format outlined in the problem ("%A, %B %d %Y at %H:%M %p"). The format is (Weekday(Monday, Tuesday...., Month(January, February)..., Date (10th, 11th), Year (2019), at , Time (5:33 pm) ).
+<p>Problem 8 print today's date and time formatted in a certain way. We import calendar and datetime modules. We assign datetime.now() to now. We then reformat now to the format outlined in the problem ("%A, %B %d %Y at %H:%M %p"). The format is (Weekday(Monday, Tuesday...., Month(January, February)..., Date (10th, 11th), Year (2019), at , Time (5:33 pm) ).</p>
 <p>9. second.py</p>
+<p>Problem 9 requires a program to read in a text file and then return every 2nd line. We use ```with open.... as book``` to read in the file as book. We then assign the output of readlines to the var book1. We then use the range function to return every 2nd line in book 1 using a similar function in prob 6. We then print the output to the screen and then we unindent to close the loop. 
 <p>10. Problem-10.py</p>
 
 ### References
