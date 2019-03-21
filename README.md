@@ -24,6 +24,7 @@ This repo contains the my solution to the Problem set for the Programming and Sc
 <p>2. begins-with-t.py</p>
 <p>The problem here is to write a program that returns to the screen whether today begins with a "T" or not. I import the calendar mod and datetime mod. I use the datetime.now() and assign it to now. I do the same with weekday with today's weekday assigned to it. The days are returned as a int from 0 to 6. Tuesday and Thurday is 1 and 3 respectively. So we can use an if statement to then check if it is equal to 1 or 3. I added the else statement to if loop to deal with the non Tuesday and Thurday days.
 <p>3. divisor.py</p>
+<p>Problem 3 print all numbers between 1000 and 10,000 that are divisable by 6 and not 12. First we create the range for the var "num" between 1,00 and 10,000. We then use an "if" statement to check if each num can divided by 6 without a remainder and 12 with a remainder and then we print the num that fits those conditions to the screen.
 <p>4. collatz.py</p>
 <p>5. primes.py</p>
 <p>6. secondstring.py</p>
