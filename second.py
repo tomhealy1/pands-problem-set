@@ -1,6 +1,6 @@
 #Solution to Problem 9
 #Tom Healy
-#Added in Week 7 lessons, Created a file with first few paragraphs of Moby-Dick
+#Added in Week 7 lessons, Created a file with first few paragraphs of Moby-Dick, 'r' denotes read and assigns it to var book
 with open('C:\\Users\\Teamwork\\Desktop\\Assessments\\pands-problem-set\\moby-dick.txt', 'r') as book:
 #Uses readlines statement to assign the lines in book to new arugment book1 
     book1 = book.readlines()
