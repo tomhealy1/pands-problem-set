@@ -18,7 +18,7 @@ This repo contains the my solution to the Problem set for the Programming and Sc
 4. Enter input (string, float, int)
 5. Review output
 
-### The list of problems and brief outline of solution 
+### The list of problems and brief outlines of solution 
 <p>1. sumupto.py</p> 
 <p>The problem is to request an input (integer) from the user and return printed to the screen the sum of all the values between
    one and that number. I used a "while" to accomplish this (while x is greater than zero) and added an if func when x is less that zero. 
