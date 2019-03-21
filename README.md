@@ -32,6 +32,7 @@ This repo contains the my solution to the Problem set for the Programming and Sc
 <p>5. primes.py</p>
 <p>Problem 5 is a program to check if an inputted value is a prime number or not. First, we ask the user for an integer. If the integer is greater than one, it creates a range between 2 and the inputted value. If the "num" divided by any int in the range then it is not prime. We have an else condition for all other members of the list that are prime.
 <p>6. secondstring.py</p>
+<p>Problem 6 asks for a string from the user. We then have a program that will return every 2nd word and print to the screen almost like a new sentence. First, we import the string module. We then assign the string input to y_words. We then use the split function to split the input using space as a separator and assign it to the words var. We then create a range beginning at the 2nd word in the range and goes through every 2nd word. It then prints those words to the screen.
 <p>7. sqaureroot.py</p>
 <p>8. datetime.py</p>
 <p>9. second.py</p>
