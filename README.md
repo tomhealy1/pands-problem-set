@@ -6,12 +6,13 @@ This repo contains the my solution to the Problem set for the Programming and Sc
 
 ### How to download this repo
 1. Go to Github
-2. Click the download button
+2. Open [this](https://github.com/tomhealy1/pands-problem-set)
+3. Click the download button
 
 ### How to run the code
-1. Make sure you have Python installed
-2. Open the CLI
-3. Type "python" and filename
+1. Make sure you have Python (Anaconda Preferable) installed
+2. Open the CLI (Cmder preferable)
+3. Type "python" and filename e.g. $ python sumupto.py
 4. Enter input (string, float, int)
 5. Review output
 
@@ -21,6 +22,7 @@ This repo contains the my solution to the Problem set for the Programming and Sc
    one and that number. I used a "while" to accomplish this (while x is greater than zero) and added an if func when x is less that zero. 
    The code adds the numbers in the range and then stops when x is zero.</p>
 <p>2. begins-with-t.py</p>
+<p>The problem here is to write a program that returns to the screen whether today begins with a "T" or not. I import the calendar mod and datetime mod. I use the datetime.now() and assign it to now. I do the same with weekday with today's weekday assigned to it. The days are returned as a int from 0 to 6. Tuesday and Thurday is 1 and 3 respectively. So we can use an if statement to then check if it is equal to 1 or 3. I added the else statement to if loop to deal with the non Tuesday and Thurday days.
 <p>3. divisor.py</p>
 <p>4. collatz.py</p>
 <p>5. primes.py</p>

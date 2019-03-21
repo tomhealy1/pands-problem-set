@@ -12,7 +12,7 @@ now = datetime.now()
 #Assigning today's weekday to the var weekday
 weekday = now.weekday() 
 
-#if today's day is equal to Tuesday, print "Yay today begins with a T". I could have used an or statement instead of a elif
+#if today's day is equal to Tuesday, print "Yay today begins with a T". I could have used an "or" statement instead of a elif
 if weekday == 1: 
     print("Yay today begins with a T")
 
