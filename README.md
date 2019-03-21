@@ -1,6 +1,6 @@
 # Pands-problem-set
-###HDip in Data Analytics 2019 
-###Tom Healy 
+### HDip in Data Analytics 2019 
+### Tom Healy 
 
 This repo contains the my solution to the Problem set for the Programming and Scripting module at GMIT.
 
@@ -30,6 +30,7 @@ This repo contains the my solution to the Problem set for the Programming and Sc
 <p>4. collatz.py</p>
 <p> This program asks the user to input a positive integer. The program then loops through a series of steps where if the value is even, it divides by two, if the values is odd, it will multiply it by 3 and add one. The program stops at one. I use the input func to request an int. If the integer is less that 0, it will ask for another. If the int is greater than 0, we use an if statement to check if the number is even (divide by 2 and check that there is no remainder). If even a new value is then passed to x (dividved by 2). If odd x is passed a new value after x is multplied by 3 and add one. The loop keeps going until it get to one because of the while condition.</p> 
 <p>5. primes.py</p>
+<p>Problem 5 is a program to check if an inputted value is a prime number or not. First, we ask the user for an integer. If the integer is greater than one, it creates a range between 2 and the inputted value. If the "num" divided by any int in the range then it is not prime. We have an else condition for all other members of the list. 
 <p>6. secondstring.py</p>
 <p>7. sqaureroot.py</p>
 <p>8. datetime.py</p>
