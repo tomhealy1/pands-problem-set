@@ -61,7 +61,7 @@ This repo contains the my solution to the Problem set for the Programming and Sc
       <li>[Looping Techniques](https://docs.python.org/3/library/math.html)</li>
       <li>[Error and Exceptions](https://docs.python.org/3/tutorial/errors.html)</li>
       <li>[Matplot](https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py)</li>
-      
+   </ul>
 4. [w3 Online Coding School](https://www.w3schools.com/python/default.asp)
 
 5. Learn Python the Hard Way
