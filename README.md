@@ -51,7 +51,9 @@ This repo contains the my solution to the Problem set for the Programming and Sc
 2. [Python for Data Analysis, 2e](https://www.bookdepository.com/Python-for-Data-Analysis-2e-Wes-McKinney/9781491957660?redirected=true&utm_medium=Google&utm_campaign=Base1&utm_source=IE&utm_content=Python-for-Data-Analysis-2e&selectCurrency=EUR&w=AFFPAU96Q2VP05A80381&pdg=pla-104399445939:kwd-104399445939:cmp-711089934:adg-37476253379:crv-163904732377:pid-9781491957660:dev-c&gclid=CjwKCAiAiJPkBRAuEiwAEDXZZT72W6wFgoJjZ876F2c0lLHOjyhXNT-ybD4lmSzpbWpF6qrAi0zIDhoCDdMQAvD_BwE)
 
 3. [Python Tutorial](https://docs.python.org/3/tutorial/)
+   
    Specifically: 
+   
    -[Flow-Control](https://docs.python.org/3/tutorial/controlflow.html)
 
    -[Read and Writing Files](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
@@ -65,7 +67,7 @@ This repo contains the my solution to the Problem set for the Programming and Sc
    -[Looping Techniques](https://docs.python.org/3/library/math.html)
 
    -[Error and Exceptions](https://docs.python.org/3/tutorial/errors.html)
-   
+
    And
    -[Matplot](https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py)
    
