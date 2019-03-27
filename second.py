@@ -7,7 +7,7 @@ import sys
 
 #If the number of commands from the command is less thn 2 then it will print an error message 
 try:
-# count the number of arguments supplied via command-line
+#Checks the number of arguments from CLI 
     if len(sys.argv) == 2: 
         with open(sys.argv[1], 'r') as book:
 #Uses readlines statement to assign the lines in book to new arugment book1 
