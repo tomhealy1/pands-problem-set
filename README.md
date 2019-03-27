@@ -53,12 +53,19 @@ This repo contains the my solution to the Problem set for the Programming and Sc
 3. [Python Tutorial](https://docs.python.org/3/tutorial/)
    Specifically: 
    -[Flow-Control](https://docs.python.org/3/tutorial/controlflow.html)
+
    -[Read and Writing Files](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
+
    -[Date Module](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
+
    -[Calendar Module](https://docs.python.org/3/library/calendar.html)
+
    -[Maths](https://docs.python.org/3/library/math.html)
+
    -[Looping Techniques](https://docs.python.org/3/library/math.html)
+
    -[Error and Exceptions](https://docs.python.org/3/tutorial/errors.html)
+   
    And
    -[Matplot](https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py)
    
