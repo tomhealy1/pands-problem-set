@@ -53,7 +53,7 @@ This repo contains the my solution to the Problem set for the Programming and Sc
 3. [Python Tutorial](https://docs.python.org/3/tutorial/)
    Specifically: 
    <ul>
-      <li> [Flow Control](https://docs.python.org/3/tutorial/controlflow.html)</li>
+      <li> [Flow Control](https://docs.python.org/3/tutorial/controlflow.html) </li>
       <li>[Read and Writing Files](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files) </li>
       <li>[Date Module](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)</li>
       <li>[Calendar Module](https://docs.python.org/3/library/calendar.html)</li>
