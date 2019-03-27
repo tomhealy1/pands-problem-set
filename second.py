@@ -22,6 +22,6 @@ try:
         pass
         print ("Please enter a text filename")
         sys.exit()
-#Added in except statement File error handling
+#Added in except statement File error handling from https://docs.python.org/3.7/tutorial/errors.html#tut-handling
 except FileNotFoundError:
     print("File does not exist, please try again")
