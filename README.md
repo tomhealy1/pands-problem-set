@@ -53,7 +53,7 @@ This repo contains the my solution to the Problem set for the Programming and Sc
 3. [Python Tutorial](https://docs.python.org/3/tutorial/)
    
    Specifically: 
-   
+
    -[Flow-Control](https://docs.python.org/3/tutorial/controlflow.html)
 
    -[Read and Writing Files](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
@@ -73,8 +73,8 @@ This repo contains the my solution to the Problem set for the Programming and Sc
    
 4. [w3 Online Coding School](https://www.w3schools.com/python/default.asp)
 
-5. Learn Python the Hard Way
+5. [LPTHW](https://learnpythonthehardway.org/)
 
-6. Learning Python 5th Edition
+6. [Learning Python 5th Edition](https://www.bookdepository.com/Learning-Python-Mark-Lutz/9781449355739?redirected=true&utm_medium=Google&utm_campaign=Base1&utm_source=IE&utm_content=Learning-Python&selectCurrency=EUR&w=AFFPAU96193P48A80380&pdg=aud-346191234601:pla-104399445939:kwd-104399445939:cmp-711089934:adg-37476253379:crv-163904732377:pid-9781449355739:dev-c&gclid=CjwKCAjwvuzkBRAhEiwA9E3FUkuRH9rv23Lo8fVuzos1UoCtJjP39onopq2TMHl85_9ZI54sBqOMWxoC7q4QAvD_BwE)
 
-7. Python in a Nutshell
+7. [Python in a Nutshell](https://www.bookdepository.com/Python-Nutshell-Alex-Martelli/9781449392925?ref=grid-view&qid=1553683715784&sr=1-1)
