@@ -52,16 +52,16 @@ This repo contains the my solution to the Problem set for the Programming and Sc
 
 3. [Python Tutorial](https://docs.python.org/3/tutorial/)
    Specifically: 
-   <ul>
-      <li> [Flow-Control](https://docs.python.org/3/tutorial/controlflow.html) </li>
-      <li>[Read and Writing Files](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files) </li>
-      <li>[Date Module](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)</li>
-      <li>[Calendar Module](https://docs.python.org/3/library/calendar.html)</li>
-      <li>[Maths](https://docs.python.org/3/library/math.html)</li>
-      <li>[Looping Techniques](https://docs.python.org/3/library/math.html)</li>
-      <li>[Error and Exceptions](https://docs.python.org/3/tutorial/errors.html)</li>
-      <li>[Matplot](https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py)</li>
-   </ul>
+   -[Flow-Control](https://docs.python.org/3/tutorial/controlflow.html)
+   -[Read and Writing Files](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
+   -[Date Module](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
+   -[Calendar Module](https://docs.python.org/3/library/calendar.html)
+   -[Maths](https://docs.python.org/3/library/math.html)
+   -[Looping Techniques](https://docs.python.org/3/library/math.html)
+   -[Error and Exceptions](https://docs.python.org/3/tutorial/errors.html)
+   And
+   -[Matplot](https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py)
+   
 4. [w3 Online Coding School](https://www.w3schools.com/python/default.asp)
 
 5. Learn Python the Hard Way
