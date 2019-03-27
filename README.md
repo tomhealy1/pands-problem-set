@@ -1,6 +1,6 @@
-# Pands-problem-set
-### HDip in Data Analytics 2019 
-### Tom Healy 
+<h1>Pands-problem-set<h3>
+<h2>HDip in Data Analytics 2019<h2>
+<h2>Tom Healy</h2> 
 
 This repo contains the my solution to the Problem set for the Programming and Scripting module at GMIT.
 
@@ -18,7 +18,7 @@ This repo contains the my solution to the Problem set for the Programming and Sc
 4. Enter input (string, float, int)
 5. Review output
 
-### The list of problems and brief outlines of solution 
+<h2> The list of problems and brief outlines of solution</h2> 
 <h3><p>1. sumupto.py</p></h3> 
 <p>The problem is to request an input (integer) from the user and return printed to the screen the sum of all the values between
    one and that number. I used a "while" to accomplish this (while x is greater than zero) and added an if func when x is less that zero. 
