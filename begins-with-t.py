@@ -1,9 +1,9 @@
 #Solution to Problem 2
 #Tom Healy
-#import calendar module
+#Import calendar module
 import calendar 
 
-#import datetime mod from datetime package
+#Import datetime mod from datetime package
 from datetime import datetime 
 
 #what is today's date and time abd assigning that to the varible now
